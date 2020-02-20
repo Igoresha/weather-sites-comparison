@@ -1,2 +1,8 @@
 venv*/
 .idea/
+.pytest_cache/
+__pycache__/
+pages/__init__.pyc
+pages/base_page.pyc
+pages/sinoptik_pages.pyc
+result_log/last_test_output.log
