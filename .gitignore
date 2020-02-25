@@ -5,3 +5,4 @@ __pycache__/
 pages/__init__.pyc
 pages/base_page.pyc
 pages/sinoptik_pages.pyc
+debug.log
